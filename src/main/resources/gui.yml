@@ -1,0 +1,88 @@
+title: "&4› &cPermanentEffects"
+slots: 27
+potion-item:
+  displayname: "&8|&7 %effect%"
+  lore:
+    - ""
+    - " &7› &fLivello attuale: &a%level%"
+    - " &7› &fPrezzo upgrade: &a%price%"
+    - ""
+    - " &a&nClicca per acquistare"
+  maxed-lore:
+    - ""
+    - " &4› &cEffetto al massimo"
+    - ""
+
+effects: #https://helpch.at/docs/1.8.8/index.html?org/bukkit/potion/PotionEffectType.html
+  FIRE_RESISTANCE:
+    displayname: "Resistenza al Fuoco"
+    slot: 11
+    cost:
+      1: 10000
+      2: 20000
+  REGENERATION:
+    displayname: "Rigenerazione"
+    slot: 12
+    cost:
+      1: 10000
+      2: 20000
+      3: 30000
+      4: 40000
+      5: 50000
+  INCREASE_DAMAGE:
+    displayname: "Forza"
+    slot: 13
+    cost:
+      1: 10000
+      2: 20000
+items:
+  0:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  1:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  7:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  8:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  9:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  17:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  18:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  19:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  25:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]
+  26:
+    material: STAINED_GLASS_PANE
+    durability: 7
+    displayname: "&7"
+    lore: [ ]

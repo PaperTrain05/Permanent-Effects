@@ -1,0 +1,14 @@
+#      ▄   ██   ▄█ ▄█▄    █  █▀
+#       █  █ █  ██ █▀ ▀▄  █▄█
+#   ██   █ █▄▄█ ██ █   ▀  █▀▄
+#   █ █  █ █  █ ▐█ █▄  ▄▀ █  █
+#   █  █ █    █  ▐ ▀███▀    █
+#   █   ██   █             ▀
+#   ▀
+# Plugin developed by @Naickkk (Telegram)
+license-key: ""
+messages:
+  maxed: "&4›&c Questo effetto è già al massimo"
+  bought: "&2›&a Hai comprato l'effetto %effect%"
+  upgraded: "&2›&a Hai upgradato l'effetto %effect% a livello %level%"
+  no-money: "&4›&c Non hai abbastanza soldi"
