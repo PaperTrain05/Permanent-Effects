@@ -1,7 +1,7 @@
 name: PermanentEffects
 version: '${project.version}'
 main: it.naick.permanenteffects.PermanentEffects
-authors: [ Naick ]
+authors: [ PaperTrain ]
 depend:
   - Vault
 commands:
